@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Hi, my name is Erika-Joelle Roncal-Schuyler, but you can call me Erika, EJ, or Erielle, and I bring a unique blend of expertise to the table. I am a Filipina Software Engineer with a background in Psychology, committed to making a positive social impact while valuing innovation and tradition.
+I'm Erika-Joelle Roncal-Schuyler, or Erika, EJ, or Erielle. I'm a passionate Filipina Software Engineer with a unique blend of expertise, including a background in Psychology. My journey from psychology graduate to software developer has equipped me with a diverse skill set that combines empathy with technical aspects, enabling me to excel in software engineering.
 
-As a psychology graduate turned software developer, I possess the empathetic and technical skills needed for well-rounded development. My focus is on creating impactful products that meet the highest industry standards.
+I'm driven by a solid commitment to creating a positive social impact through innovation and respecting tradition. My focus is on crafting software solutions that meet industry standards and resonate with users on a meaningful level.
 
-Throughout my career, I have implemented mentorship programs and gained extensive experience in HR, including full-cycle recruiting and conducting interviews. This experience allows me to connect with people deeper and better understand their needs.
+What sets me apart is my extensive experience in HR, where I've successfully implemented mentorship programs and honed skills such as full-cycle recruiting and conducting interviews. These experiences have enriched my ability to connect with people, deeply understand their needs, and translate that understanding into user-centric software.
 
-When I'm not coding, you'll find me with my dogs and experimenting with recipes in the kitchen. Let's connect and explore how we can collaborate to achieve amazing things!
+When I'm not coding, I enjoy quality time with my dogs and experimenting with new recipes in the kitchen. I'm excited to connect with you and explore how we can collaborate to achieve remarkable outcomes.
 
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=erikajoelleee&theme=nightowl&show_icons=true" />
