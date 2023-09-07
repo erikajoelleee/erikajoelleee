@@ -6,7 +6,7 @@ I'm driven by a solid commitment to creating a positive social impact through in
 
 As a Navy wife, I've learned the importance of adaptability and resilience. These qualities translate seamlessly into the dynamic world of software engineering. My extensive experience in HR, including a successful mentorship program implementation and skills like full-cycle recruiting and conducting interviews, has allowed me to connect with people, deeply understand their needs, and translate that understanding into user-centric software.
 
-When I'm not coding, I cherish quality time with my dogs and enjoy experimenting with new recipes in the kitchen. Let's connect and explore how we can collaborate to achieve remarkable outcomes.
+When I'm not coding, you can catch me spending time with my dogs and experimenting with new recipes in the kitchen. Let's connect and explore how we can collaborate to achieve remarkable outcomes.
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=erikajoelleee&theme=nightowl&show_icons=true" />
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikajoelleee&layout=compact" />
