@@ -30,7 +30,7 @@ When I'm not coding, I cherish quality time with my dogs and enjoy experimenting
 
 ## How I work
 <div>
-As a software developer, my primary focus is resolving complex issues and enhancing user experiences to achieve optimal efficiency. I am passionate about possibly working for a company that places a high value on inclusivity, diversity, and making a meaningful societal impact.
+As a software developer, I want to use my skills to solve complex problems and enhance the user experience for efficiency. I would like to work for an organization that values inclusivity, diversity, and social impact, where I can contribute to building products that make a difference in the world.
 </div>
 
 ## Get in touch 
