@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Erika-Joelle Roncal-Schuyler, but you can call me Erika, EJ, or Erielle. I'm a dedicated Filipina Software Engineer with a unique blend of expertise, including a background in Psychology. My journey from psychology graduate to software developer has equipped me with a diverse skill set that combines my empathy with technical aspects to excel in software engineering.
+I'm Erika-Joelle Roncal-Schuyler, but you can call me Erika, EJ, or Erielle. I'm a dedicated Filipina Software Engineer with a unique blend of expertise, including a background in Psychology. My journey from psychology graduate to software developer has equipped me with a diverse skill set that combines my empathy and technical aspects to excel in software engineering.
 
 I'm driven by a solid commitment to creating a positive social impact through innovation and tradition. I focus on crafting software solutions that meet industry standards and resonate with users more meaningfully.
 
