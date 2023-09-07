@@ -6,7 +6,7 @@ I'm driven by a solid commitment to creating a positive social impact through in
 
 What sets me apart is my extensive experience in HR, where I've successfully implemented mentorship programs and honed skills such as full-cycle recruiting and conducting interviews. These experiences have enriched my ability to connect with people, deeply understand their needs, and translate that understanding into user-centric software.
 
-When I'm not coding, I enjoy quality time with my dogs and experimenting with new recipes in the kitchen. I'm excited to connect with you and explore how we can collaborate to achieve remarkable outcomes.
+When I'm not coding, I enjoy quality time with my dogs and experimenting with new recipes in the kitchen. I'm excited to connect and explore how we can collaborate to achieve remarkable outcomes.
 
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=erikajoelleee&theme=nightowl&show_icons=true" />
